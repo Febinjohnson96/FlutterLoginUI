@@ -391,7 +391,7 @@ class UserPage extends StatelessWidget {
                     borderRadius: BorderRadius.circular(10.0),
                   ),
                   child: Text(
-                    'Go back!',
+                    'Sign Out',
                     style: TextStyle(
                       color: Colors.red[400],
                     ),
